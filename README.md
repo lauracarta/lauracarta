@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  💼 <strong>Current focus:</strong> Networking (CCNA prep), Security practices & reusable DevOps templates  
+  💼 <strong>Current focus:</strong> Networking (CCNA preparation) & Security practices
 </p>
 
 <p align="left">
