@@ -37,6 +37,12 @@
 ## ✨ Fun Facts
 - My hair is currently purple. 
 - Interested in **technical leadership paths** for the future.  
-- Live with a couple of mischievous cats who sometimes join my calls.  
+- Live with a couple of mischievous cats who sometimes join my calls.
+- I regularly attend circus classes, specializing in aerials.   
 
 ---
+
+## 🏅 Certifications
+![AWS Solutions Architect – Professional](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Professional-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=flat&logo=amazonaws&logoColor=white)
